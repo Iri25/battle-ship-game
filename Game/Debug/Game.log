@@ -1,0 +1,6 @@
+﻿  Application.cpp
+  Service.cpp
+  UserInterface.cpp
+G:\Facultate\FMI\2019-2020\Domeniul Matematică\Informatică\Semestrul 2\Programare orientată obiect\Laboratoare\Laborator 12-13\BattleShip - Game\Game\UserInterface.cpp(91,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Game.vcxproj -> G:\Facultate\FMI\2019-2020\Domeniul Matematică\Informatică\Semestrul 2\Programare orientată obiect\Laboratoare\Laborator 12-13\BattleShip - Game\Debug\Game.exe
